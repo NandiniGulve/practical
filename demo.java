@@ -1,7 +1,7 @@
 import java.util.*;
-Public class demo 
+public class demo 
 {
-Public static void main(String args[])
+public static void main(String args[])
 {
 System.out.println("Hello shravani");
 }
